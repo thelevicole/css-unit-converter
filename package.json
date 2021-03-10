@@ -1,0 +1,36 @@
+{
+  "name": "@thelevicole/css-unit-converter",
+  "version": "1.0.0",
+  "description": "A javascript library for converting CSS units to Number values.",
+  "main": "dist/convertCssUnit.js",
+  "keywords": [
+    "css",
+    "units"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-babel-minify": "^0.5.1"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 1%",
+    "ie 8",
+    "ie 7"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelevicole/css-unit-converter.git"
+  },
+  "author": {
+    "name": "Levi Cole",
+    "email": "dev@thelevicole.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelevicole/css-unit-converter/issues"
+  },
+  "homepage": "https://github.com/thelevicole/css-unit-converter/"
+}
