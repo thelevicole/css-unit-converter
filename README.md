@@ -64,7 +64,7 @@ For example:
 ### Angles
 | Unit input | Conversion output |  
 |------|------------|  
-| `deg`   | `px`        |  
+| `deg`   | `deg`        |  
 | `rad`   | `deg`         |  
 | `grad`   | `deg`         |  
 | `turn`   | `deg`         |  
